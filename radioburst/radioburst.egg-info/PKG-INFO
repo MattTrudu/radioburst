@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: radioburst
+Version: 0.1.0
+Summary: A Python package to manipulate Fast Radio Burst Data
+Home-page: https://github.com/MattTrudu/radioburst.git
+Author: Matt Trudu
+Author-email: trudumatteo@outlook.com
+License: MIT License
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+radioburst a python package to make and manipulate Fast Radio Burst Data 
